@@ -1,0 +1,10 @@
+model:
+  name: deepseek-ai/deepseek-coder-1.3b-base
+
+lora:
+  r: 64
+  alpha: 16
+  dropout: 0.1
+
+training:
+  lr: 0.0001
